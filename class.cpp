@@ -78,6 +78,12 @@ int main(){
 	bungarafflesia.tumbuhdi("Indonesia,Filipina,Malaysia,Thailand");
 	cout <<"_______________________________\n\n";
 	
-	
+	cout <<"Ciri-ciri bunga elata: \n\n";
+	cout <<(bungaelata.wangi);
+	bungaelata.warna("merah,oranye");
+	bungaelata.bentuk("menyerupai bibir");
+	bungaelata.berasaldari"Amerika Selatan");
+	bungaelata.tumbuhdi("Kolombia,Panama,Kosta Rika,Ekuador");
+	cout <<"_______________________________\n\n";	
 	
 }
