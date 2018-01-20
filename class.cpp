@@ -38,4 +38,14 @@ int main(){
 	bungasepatu.tumbuhdi("Malaysia,Tiongkok,Jepang");
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri bunga asoka: \n\n";
+	cout <<(bungaasoka.wangi);
+	bungaasoka.warna("merah,kuning,jingga");
+	bungaasoka.bentuk("bergerombol dan berderet");
+	bungaasoka.berasaldari"India");
+	bungaasoka.tumbuhdi("Indonesia,Daerah Asia");
+	cout <<"_______________________________\n\n";
+	
+	
+	
 }
