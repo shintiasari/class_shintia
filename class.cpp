@@ -46,6 +46,14 @@ int main(){
 	bungaasoka.tumbuhdi("Indonesia,Daerah Asia");
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri bunga mawar: \n\n";
+	cout <<(bungamawar.wangi);
+	bungamawar.warna("merah,merah muda,putih,kuning");
+	bungamawar.bentuk("daun mahkota");
+	bungamawar.berasaldari"Cina");
+	bungamawar.tumbuhdi("Indonesia,Eropa,Tiongkok,Timur Tengah,Jepang,Amerika Serikat");
+	cout <<"_______________________________\n\n";
+	
 	
 	
 }
