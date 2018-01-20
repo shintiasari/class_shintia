@@ -8,7 +8,7 @@ class bunga {
 		int bentuk(string bentuk);
 		string wangi;
 		void berasaldari(string asal);
-		void Tumbuhdi(int wilayah);
+		void tumbuhdi(int wilayah);
 };
 		
 int main(){
@@ -21,4 +21,13 @@ int main(){
 	bungasakura.wangi = "harum aja"
 	bungarafflesia.wangi = "berbau bangkai"
 	bungaelata.wangi = "bau tak sedap"
+	
+	cout <<"Ciri-ciri bunga ester: \n\n";
+	cout <<(bungaester.wangi);
+	bungaester.warna("merah,kuning,pink,ungu,dan biru");
+	bungaester.bentuk("menyerupai bintang");
+	bungaester.berasaldari"Tiongkok");
+	bungaester.tumbuhdi(Indonesia,Cina,Jepang);
+	cout <<"_______________________________\n\n";
+	
 }
