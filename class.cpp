@@ -62,6 +62,14 @@ int main(){
 	bungaalamanda.tumbuhdi("Indonesia,Brazil,");
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri bunga sakura: \n\n";
+	cout <<(bungasakura.wangi);
+	bungasakura.warna("merah jambu,putih,kuning muda,hijau muda");
+	bungasakura.bentuk("sususan mahkota berlapis");
+	bungasakura.berasaldari"Jepang");
+	bungasakura.tumbuhdi("Tokyo,Kyoto,Honshu,Osaka");
+	cout <<"_______________________________\n\n";
+	
 	
 	
 }
