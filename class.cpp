@@ -24,10 +24,18 @@ int main(){
 	
 	cout <<"Ciri-ciri bunga ester: \n\n";
 	cout <<(bungaester.wangi);
-	bungaester.warna("merah,kuning,pink,ungu,dan biru");
+	bungaester.warna("merah,kuning,pink,ungu,biru");
 	bungaester.bentuk("menyerupai bintang");
 	bungaester.berasaldari"Tiongkok");
-	bungaester.tumbuhdi(Indonesia,Cina,Jepang);
+	bungaester.tumbuhdi("Indonesia,Cina,Jepang");
+	cout <<"_______________________________\n\n";
+	
+	cout <<"Ciri-ciri bunga sepatu: \n\n";
+	cout <<(bungasepatu.wangi);
+	bungasepatu.warna("merah,kuning,putih,oranye");
+	bungasepatu.bentuk("seperti terompet");
+	bungasepatu.berasaldari"Indonesia");
+	bungasepatu.tumbuhdi("Malaysia,Tiongkok,Jepang");
 	cout <<"_______________________________\n\n";
 	
 }
