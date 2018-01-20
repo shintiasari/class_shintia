@@ -70,6 +70,14 @@ int main(){
 	bungasakura.tumbuhdi("Tokyo,Kyoto,Honshu,Osaka");
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri bunga rafflesia: \n\n";
+	cout <<(bungarafflesia.wangi);
+	bungarafflesia.warna("merah");
+	bungarafflesia.bentuk("bermahkota lima");
+	bungarafflesia.berasaldari"Indonesia");
+	bungarafflesia.tumbuhdi("Indonesia,Filipina,Malaysia,Thailand");
+	cout <<"_______________________________\n\n";
+	
 	
 	
 }
