@@ -35,7 +35,7 @@ int main(){
 	bungasepatu.warna("merah,kuning,putih,oranye");
 	bungasepatu.bentuk("seperti terompet");
 	bungasepatu.berasaldari"Indonesia");
-	bungasepatu.tumbuhdi("Malaysia,Tiongkok,Jepang");
+	bungasepatu.tumbuhdi("Indonesia,Malaysia,Tiongkok,Jepang");
 	cout <<"_______________________________\n\n";
 	
 	cout <<"Ciri-ciri bunga asoka: \n\n";
@@ -52,6 +52,14 @@ int main(){
 	bungamawar.bentuk("daun mahkota");
 	bungamawar.berasaldari"Cina");
 	bungamawar.tumbuhdi("Indonesia,Eropa,Tiongkok,Timur Tengah,Jepang,Amerika Serikat");
+	cout <<"_______________________________\n\n";
+	
+	cout <<"Ciri-ciri bunga alamanda: \n\n";
+	cout <<(bungaalamanda.wangi);
+	bungaalamanda.warna("kuning");
+	bungaalamanda.bentuk("menyerupai lonceng");
+	bungaalamanda.berasaldari"Amerika Tengah");
+	bungaalamanda.tumbuhdi("Indonesia,Brazil,");
 	cout <<"_______________________________\n\n";
 	
 	
